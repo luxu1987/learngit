@@ -2,8 +2,4 @@ controllers
 middleware
 request
 routes
-<<<<<<< HEAD
-Creating a new branch is quick.
-=======
->>>>>>> master
-Creating a new branch is quick & simple.
+creating a new branch is quick AND simple.
